@@ -1,0 +1,118 @@
+#wrapper{
+	background-color: mediumseagreen;
+}
+
+header{
+	width: 100%;
+	background: linear-gradient(black, purple);
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+nav{
+	width: 100%;
+	height: 50px;
+	background-color: grey;
+	text-align: center;
+	padding-top: 5px;
+	box-sizing: border-box;
+}
+
+nav a:first-child{
+	border-left: 1px solid white;
+}
+
+
+
+nav a{
+	display: inline-block;
+	color: white;
+	border-right: 1px solid white;
+	font-size: 20px;
+	box-sizing: border-box;
+	background-color: darkgrey;
+}
+
+nav a:hover li{
+	color: black;
+	background-color: white;
+	height: 50px;
+	border-top: 15px solid black;
+	margin-top: -15px;
+}
+
+main{
+	width: 100%;
+	padding: 5px;
+	box-sizing: border-box;
+	background-color: darkorchid;
+	font-family: Trebuchet MS;
+	
+}
+
+.main-content{
+	width: 600px;
+	box-sizing: border-box;
+	padding: 10px;
+	text-indent: 1em;
+	float: center;
+}
+
+.main-content img{
+	float: center;
+	margin: 15px;
+	margin-right: 20px;
+}
+
+footer{
+	width: 100%;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#center{
+	background-color: black;
+}
+
+#Sec_2{
+	font-family: Trebuchet MS;
+	color: white;
+}
+
+#Sec_1{
+	font-family: Trebuchet MS;
+	color: white;
+}
+
+#start{
+	width: 100%;
+	background: linear-gradient(black, purple);
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Trebuchet MS;
+	color: white;
+}
+
+video{
+	text-align: center;
+}
+
+a {
+  			text-decoration: none;
+  			text-transform: uppercase;
+  			border: 3px solid black;
+  			margin-bottom: 25px;
+}
+
+.main-content{
+	background-color: white;
+}
+
+#br{
+	background-color: mediumseagreen;
+}
