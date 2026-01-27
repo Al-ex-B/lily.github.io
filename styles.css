@@ -46,7 +46,7 @@ main{
 	width: 100%;
 	padding: 5px;
 	box-sizing: border-box;
-	background-color: darkorchid;
+	background-color: lightgrey;
 	font-family: Trebuchet MS;
 	
 }
@@ -115,4 +115,15 @@ a {
 
 #br{
 	background-color: mediumseagreen;
+}
+
+.cover{
+	color: white;
+	background-color: white;
+	border: white;
+}
+
+#Animations{
+	font-family: Trebuchet MS;
+	color: white;
 }
